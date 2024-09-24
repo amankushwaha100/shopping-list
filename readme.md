@@ -42,7 +42,7 @@
 
 ## About The Project
 
-![Project 07: uiproject-07](https://github.com/alokVerma749/ui-project_07/blob/master/7.pnghttps://github.com/amankushwaha100/shopping-list/blob/main/Project%20Image.png)
+![Project 07: uiproject-07](https://github.com/amankushwaha100/shopping-list/blob/main/Project%20Image.png)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
@@ -149,5 +149,5 @@ Project Link: [link](https://shoppinglistbyaman.netlify.app/)
 
 <!-- Project screenshot -->
 
-[product-screenshot]: https://github.com/alokVerma749/ui-project_07/blob/master/7.pnghttps://github.com/amankushwaha100/shopping-list/blob/main/Project%20Image.png
+[product-screenshot]: https://github.com/amankushwaha100/shopping-list/blob/main/Project%20Image.png
 [project-url]: https://shoppinglistbyaman.netlify.app/
